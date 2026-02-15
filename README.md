@@ -16,7 +16,7 @@
 Automation Test Engineer with internship experience and ISTQB certification, specializing in Selenium WebDriver, TestNG, JUnit, Java, and API testing. Proven ability to develop and execute automated test scripts that increased regression coverage by **40%** and reduced manual testing effort by **30%**. Experienced in Agile environments, collaborating with cross-functional teams to design test cases, log defects in Jira, and continuously improve QA processes.
 
 ---
-###[My Cv](https://github.com/devi215/Resume.git)
+##[My CV](https://github.com/devi215/Resume.git)
 ---
 
 ## 🛠️ Skills
