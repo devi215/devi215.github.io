@@ -17,7 +17,7 @@ Automation Test Engineer with internship experience and ISTQB certification, spe
 
 ---
 [My CV](https://github.com/devi215/Resume.git)
---------------------------------------------
+---
 
 ## 🛠️ Skills
 
