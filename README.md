@@ -1,5 +1,5 @@
 # devi215.github.io
-# Lata Pathange
+# Lata Pathange Portfolio
 
 **Automation Test Engineer | ISTQB® Certified**
 
