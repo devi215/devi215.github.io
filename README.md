@@ -95,7 +95,7 @@ Implemented an automated QA solution to validate functionality, reliability, and
 
 ---
 
-### 💊 Medicare Application Automation Testing
+### 💊 Medicare Application Automation Testing  [Project Link](https://github.com/devi215/Medicare_Project.git)
 **Objective:**  
 Performed automation testing to validate functionality and UI of an online medicine ordering application.
 
