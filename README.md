@@ -71,7 +71,7 @@ Automation Test Engineer with internship experience and ISTQB certification, spe
 
 ## 📂 Projects
 
-### 🍕 Pizza Hut Application Testing[Project Link](https://github.com/devi215/cucumber_Project.git)
+### 🍕 Pizza Hut Application Testing  [Project Link](https://github.com/devi215/cucumber_Project.git)
 
 **Objective:**  
 Developed an automated QA solution to ensure functionality, reliability, and usability of the Pizza Hut online food ordering application.
