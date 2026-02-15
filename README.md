@@ -84,7 +84,7 @@ Developed an automated QA solution to ensure functionality, reliability, and usa
 
 ---
 
-### 🛒 Swag Labs E-Commerce Application Testing
+### 🛒 Swag Labs E-Commerce Application Testing  [Project Link](https://github.com/devi215/testNg_Project.git)
 **Objective:**  
 Implemented an automated QA solution to validate functionality, reliability, and performance of the Swag Labs e-commerce application.
 
