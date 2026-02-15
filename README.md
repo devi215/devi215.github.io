@@ -120,4 +120,4 @@ Bangalore, India
 - British Citizen  
 - Provisional Driving License  
 
-Add badges, tech stack icons, or a more portfolio-style README
+
